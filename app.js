@@ -30,7 +30,7 @@ client.user.setPresence({activity:  {type: config.Client.botEylem, name: config.
 
 //Config tamamlandı.
 if(config.Altyapı.merhaba == "AUJSLWSANHG") {
-client.login(config.Bot.token)
+client.login(config.Bot.botToken)
 }
 //Bot giriş yapıldı.
 
