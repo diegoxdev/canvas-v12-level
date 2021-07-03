@@ -14,7 +14,7 @@ const talkedRecently = new Map();
  if(message.author.bot) return;
   if(!message.guild) return;
 
-  const prefixRegex = new RegExp(`^(<@${message.client.user.id}> |${escapeRegex(config.Bot.prefix)})\\s*`)
+  const prefixRegex = new RegExp(`^(<@${message.client.user.id}> |${escapeRegex(config.Bot.botPrefix)})\\s*`)
 
 if(!prefixRegex.test(message.content)) return;
 
