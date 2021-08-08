@@ -8,7 +8,7 @@
 * Daha sonra `src` klasörünün içindeki configs klasörünün içine gir `emojis.js` ve `settings.js` dosyalarının içindeki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * "modül.bat" isimli dosyayı açarak modülleri kur.
-* Kurulum bittikten sonra ```mstart.js``` isimli dosyayı aç ve botu başlat.
+* Kurulum bittikten sonra ```mstart.bat``` isimli dosyayı aç ve botu başlat.
 
 Tebrikler artık botu kullanabilirsin 🎉.
 
